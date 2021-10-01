@@ -1,1 +1,1 @@
-# AutoGrader with Shell and Google tester
+# Auto_Grader with Shell or Google tester
